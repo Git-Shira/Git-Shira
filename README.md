@@ -110,13 +110,12 @@ I am constantly learning and excited to grow within the tech community.
 
 ## 📊 Github Stats
 
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Git-Shira&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Git-Shira" />
-</p>
-<p align="left">
+
 <a href="https://github.com/Git-Shira">
   <img src="https://github-readme-stats.vercel.app/api?username=Git-Shira&show_icons=true&theme=dracula&line_height=27" /></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-Shira&theme=radical" alt="Git-Shira" />
-</p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-Shira&theme=radical"/>
+
 
 
