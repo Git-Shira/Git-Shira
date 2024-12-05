@@ -26,6 +26,7 @@ I am constantly learning and excited to grow within the tech community.
 ## 💭 About Me
 
 - 💻 Full Stack Web Developer
+- 🎓 B.Sc. in Computer Science, graduated with honors, specializing in Full Stack development.
 - 🌐 Proficient in both frontend and backend technologies, including popular libraries and frameworks.
 - 🎨 Skilled in designing responsive, accessible UI/UX experiences.
 - 🎯 Focused on optimizing performance, debugging, and building clean, maintainable code.
